@@ -5,3 +5,4 @@
 ## Featuring:
 - An actual VOID finally.
 - FWO Exploitable for SDHC Loading.
+- Compatiblility World for ExtData Loading.
