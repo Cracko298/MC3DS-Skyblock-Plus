@@ -36,3 +36,9 @@ Note: If you would like to save your game using this Meathod, you'll need the sa
 8. Startup Minecraft 3DS Edition, and select "Load Existing World".
 9. It should load, and you'll be playing proper Skyblock in no-time.
 ```
+![image](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/assets/78656905/8ce25f33-347b-4111-aa11-03d9f303850d)
+![image](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/assets/78656905/7ac56082-6bac-40b5-96d8-b6a98a0748b9)
+![image](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/assets/78656905/d80d9831-c433-4715-9928-c78a75cef5a4)
+![image](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/assets/78656905/d02e7687-ef0c-4627-bafa-ff27ce9d95c3)
+![image](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/assets/78656905/4fd21c53-5fc3-4e2a-a987-af3387df8839)
+![image](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/assets/78656905/a4ba5aa7-d36c-447e-9089-557208bb461e)
