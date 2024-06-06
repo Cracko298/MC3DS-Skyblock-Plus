@@ -1,2 +1,3 @@
-# MC3DS-Skyblock-Plus
-A better overall Skyblock port for Minecraft New Nintendo 3DS Edition.
+# Minecraft 3DS Skyblock+
+- A better overall Skyblock Experience after some Community Drama.
+- Can be loaded both via tradition means, or via <ins>Festive World Override (Exploit)</ins> by @[Cracko298](https://github.com/Cracko298) and [@YT-Toaster](https://github.com/YT-Toaster).
