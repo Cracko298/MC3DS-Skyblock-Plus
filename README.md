@@ -8,8 +8,8 @@
 - Compatiblility World for ExtData Loading.
 
 ## Download(s):
-- Download FWO (Exploit) Version [Here]() to run the World/Game directly off the SDHC Card.
-- Download World Version [Here]() to run the World/Game off the ExtData.
+- Download FWO (Exploit) Version [Here](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/releases/download/vSkyblockPlus1/SkyblockPlus_FWO.zip) to run the World/Game directly off the SDHC Card.
+- Download World Version [Here](https://github.com/Minecraft-3DS-Community/MC3DS-Skyblock-Plus/releases/download/vSkyblockPlus1/SkyblockPlus_World.zip) to run the World/Game off the ExtData.
 
 ## Installation Guide:
 ### FWO (Exploit) Installation:
