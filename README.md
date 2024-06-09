@@ -17,7 +17,7 @@
 - ***Note #1: If you would like to save your game using this Meathod, you'll need the same region DLC to Save it to your ExtData Worlds Folder.***
 - ***Note #2: If you do NOT have DLC installed, but still want to use FWO because it's easier, use "FWO NO DLC", and install the same way.***
 
-`Press "New Mario World" instead of "New Festive World" when loading Skyblock+.`
+`Press "New Mario World" instead of "New Festive World" when loading Skyblock+ with no DLC.`
 
   
 ```
