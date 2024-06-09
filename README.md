@@ -14,6 +14,11 @@
 
 ## Installation Guide:
 ### **BOTH FWO (Exploit) Installation:
+- **Note #1: If you would like to save your game using this Meathod, you'll need the same region DLC to Save it to your ExtData Worlds Folder.**
+- Note #2: If you do NOT have DLC installed, but still want to use FWO because it's easier, use "FWO NO DLC", and install the same way.
+  **Press "New Mario World" instead of "New Festive World" when loading Skyblock+.
+
+  
 ```
 Ensure that Game Patching is Enabled via LCL (Luma Chain Loader) before beginning.
 
@@ -21,10 +26,6 @@ Ensure that Game Patching is Enabled via LCL (Luma Chain Loader) before beginnin
 2. Take the "templates" folder from the extracted *.zip file, and copy it too the folder '\luma\titles\[TitleID]\romfs' on your 3DS.
 3. Put your SDHC Card inside of your 3DS, and turn it on.
 4. Startup Minecraft 3DS Edition, and create a "New" Festive World, it will Load Skyblock+ just like you would expect.
-
-Note #1: If you would like to save your game using this Meathod, you'll need the same region DLC to Save it to your ExtData Worlds Folder.
-Note #2: If you do NOT have DLC installed, but still want to use FWO because it's easier, use "FWO NO DLC", and install the same way.
-         **Press "New Mario World" instead of "New Festive World" when loading Skyblock+.
 ```
 ### World Installation:
 ```
